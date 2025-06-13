@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Khiran</h1>
-<p align="center">Aspiring Software Engineer | Full-Stack Developer | Web3 Enthusiast</p>
+<p align="center">Aspiring Software Engineer | Front-End Developer | DSA Enthusiast</p>
 
 ---
 
@@ -26,21 +26,17 @@ I love solving problems, building websites, and working on real-world applicatio
 ### 🚀 Languages & Tools I Use:
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
   
-  <!-- Web -->
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   
-  <!-- Databases -->
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-
-  <!-- Tools -->
+  
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
 </p>
@@ -50,15 +46,27 @@ I love solving problems, building websites, and working on real-world applicatio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikhiran71&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikhiran71&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saikhiran71&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Saikhiran71&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikhiran71&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikhiran71&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🧠 Detailed GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saikhiran71&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saikhiran71&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saikhiran71&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saikhiran71&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saikhiran71&theme=radical&utcOffset=+5" />
 </p>
 
 ---
