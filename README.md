@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Khiran K!
 
-<!--
-**Saikhiran71/Saikhiran71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate 2nd-year Computer Science Engineering student at SRM Easwari Engineering College.  
+💻 I love building web applications, solving DSA problems, and learning new technologies!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Languages & Technologies I Know:
+- **Python**
+- **C**
+- **C++**
+- **Java**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **MySQL**
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saikhiran7&theme=radical&border_radius=10)
+
+---
+
+## 🔗 Connect with Me:
+
+- [LinkedIn](https://www.linkedin.com/in/sai-khiran-k-8a7766216/)
+- [LeetCode](https://leetcode.com/u/saikhiran_7/)
+
+---
+
+⭐️ Thanks for visiting my GitHub profile!  
+Let's connect and build something amazing together 🚀
