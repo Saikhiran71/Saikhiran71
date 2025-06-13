@@ -1,37 +1,73 @@
-# Hi there, I'm Sai Khiran K! 👋
+<h1 align="center">Hi 👋, I'm Sai Khiran</h1>
+<p align="center">Aspiring Software Engineer | Full-Stack Developer | Web3 Enthusiast</p>
 
-I'm a passionate Computer Science Engineering student who loves building web apps and solving problems with code. Welcome to my GitHub profile!
+---
 
-## 🛠 Technologies & Tools
+### 👨‍💻 Welcome to my GitHub!
 
-Here are the languages and technologies I've learned and worked with:
+Looking forward to contributing and creating amazing stuff together! 🚀  
+I love solving problems, building websites, and working on real-world applications with clean UI!
 
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🔗 Connect with me:
 
-## 📈 GitHub Stats
+<p align="left">
+  <a href="https://www.linkedin.com/in/sai-khiran-k-8a7766216/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/saikhiran_7/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+  </a>
+</p>
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikhiran7&show_icons=true&theme=radical)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saikhiran7&theme=radical)
+### 🚀 Languages & Tools I Use:
 
-## 🌐 Where to Find Me
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  
+  <!-- Web -->
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  
+  <!-- Databases -->
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-khiran-k-8a7766216/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/saikhiran_7/)
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
+</p>
 
-## 🔥 Current Focus
+---
 
-- 🌱 I'm currently learning Full-Stack Web Development and Advanced DSA.
-- 👯 I'm looking to collaborate on open-source web and Java-based projects.
-- 💬 Ask me about HTML, CSS, JS, C++, or MySQL.
-- ⚡ Fun fact: I built an eCommerce website called **Sportique** to sell sportswear products using HTML, CSS, and JS!
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikhiran71&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saikhiran71&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikhiran71&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+---
+
+### 🔥 Current Focus
+
+- 🌱 Currently learning *Full-Stack Development and Advanced DSA*  
+- 👯 Looking to collaborate on *front-end projects, Java-based apps, and internship opportunities*  
+- 💬 Ask me about *HTML, CSS, JavaScript, C++, and MySQL*  
+- ⚡ Fun fact: I built an eCommerce website called **Sportique** to sell sportswear using HTML, CSS, and JS!
+
+---
