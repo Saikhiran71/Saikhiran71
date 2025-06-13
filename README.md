@@ -12,7 +12,7 @@ I love solving problems, building websites, and working on real-world applicatio
 
 ### 🔗 Connect with me:
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sai-khiran-k-8a7766216/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
@@ -25,7 +25,7 @@ I love solving problems, building websites, and working on real-world applicatio
 
 ### 🚀 Languages & Tools I Use:
 
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
@@ -47,13 +47,9 @@ I love solving problems, building websites, and working on real-world applicatio
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saikhiran71&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://streak-stats.demolab.com?user=Saikhiran71&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikhiran71&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
@@ -67,6 +63,14 @@ I love solving problems, building websites, and working on real-world applicatio
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saikhiran71&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saikhiran71&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saikhiran71&theme=radical&utcOffset=+5" />
+</p>
+
+---
+
+### 🧩 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Saikhiran_7?theme=dark&font=Baloo+Bhaijaan" alt="LeetCode Stats"/>
 </p>
 
 ---
