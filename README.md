@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Khiran</h1>
-<p align="center">Aspiring Software Engineer | Front-End Developer | DSA Enthusiast</p>
+<p align="center">Full-Stack Developer | DSA | Web3 Enthusiast</p>
 
 ---
 
